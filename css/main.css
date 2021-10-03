@@ -19,3 +19,12 @@ p {
 .global-nav {
   height: 44px;
 }
+
+.global-nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 100%;
+}
